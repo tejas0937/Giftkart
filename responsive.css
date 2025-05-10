@@ -1,0 +1,8 @@
+@media only screen and (max-width: 1000px)
+{
+    body{
+        background-color: rgb(220, 239, 255);
+        background-image: none;
+    }
+    
+}

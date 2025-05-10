@@ -1,0 +1,80 @@
+.login{
+    background-color: rgba(12, 12, 12, 0.439);
+    width: 500px;
+    color: aliceblue;
+    place-items: center;
+    margin: auto;
+    margin-top: 30px;
+    padding: 70px;
+    border: 2px solid cyan;
+    border-radius: 15px;
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-bottom: 30px;
+}
+.login input{
+    margin: 15px;
+    border: 1px solid red;
+    border-radius: 5px;
+    padding: 5px;
+}
+.submit{
+    background-color: rgb(140, 206, 253);
+    border-radius: 10px;
+    padding: 10px;
+    width: 100px;
+    margin: 5px;
+    align-self: center;
+    color: black;
+    font-size: large;
+}
+.abc h2{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.login:hover{
+    transition-duration: 0.3s;
+    transform: scalex(1.1);
+}
+.google-btn {
+  width: 184px;
+  height: 42px;
+  background-color: #4285f4;
+  border-radius: 2px;
+  box-shadow: 0 3px 4px 0 rgba(0,0,0,.25);
+  display: inline-block;
+  align-items: center;
+}
+
+.google-icon-wrapper {
+    position: absolute;
+    margin-top: 1px;
+    margin-left: 1px;
+    width: 40px;
+    height: 40px;
+    border-radius: 2px;
+    background-color: #fff;
+  }
+  .google-icon {
+    display: inline-block;
+    margin: 5px 2px;
+    width: 30px;
+    height: 30px;
+  }
+  .btn-text {
+    float: right;
+    margin: 11px 11px 0 0;
+    color: #fff;
+    font-size: 14px;
+    letter-spacing: 0.2px;
+    font-family: "Roboto";
+    
+  }
+  &:hover {
+    box-shadow: 0 0 6px #4285f4;
+  }
+  &:active {
+    background: #1669F2;
+  }
+
+
+@import url(https://fonts.googleapis.com/css?family=Roboto:500);
