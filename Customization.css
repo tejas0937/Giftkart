@@ -31,13 +31,16 @@
 .Addbutton{
     border-radius: 5px;
     background-color: aliceblue;
-    padding: 4px;
+    padding: 12px;
     display: inline-block;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.598);
 }
+.Addbutton a{
+  color: brown;
+}
 #PersonalNote{
     background: linear-gradient(90deg, rgba(138,192,235,1) 0%, rgba(255,255,255,1) 35%, rgba(5,166,255,1) 100%);
-    padding: 10px;
+    padding: 20px;
     width: 70%;
     border-radius: 10px;
     display: inline-block;
@@ -60,11 +63,11 @@
     text-align: center;
     cursor: pointer;
     width: 100%;
-    font-size: 18px;
+    font-size: 15px;
     border-radius: 10px;
     display: inline-block;
     width: 20%;
-    height: 40px;
+    height: 50px;
     margin: 20px;
   }
   .cardx button a{

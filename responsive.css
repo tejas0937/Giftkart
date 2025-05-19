@@ -6,14 +6,15 @@
     }
     .About{
   background: linear-gradient(90deg, rgb(5, 0, 76) 0%, rgb(79, 173, 255) 35%, rgb(0, 49, 76) 100%);
-  padding: 70px 50px;
+  padding: 7rem;
   font-size: 0.5rem;
   margin: 55px 0px 0px 0px ;
   color: aliceblue;
 }
 .footer{
   background-color: #24262b;
-    padding: 70px 50px;
+    padding: 7rem;
     font-size: 0.5rem;
 }
+
 }
